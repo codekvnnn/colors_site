@@ -1,1 +1,3 @@
-# colors_site
+This code sets up a full-browser <canvas> element against a black background. The script.js creates a Shape constructor that generates colorful circles with a random size and color. The animate function is used to create an animation loop that constantly updates and redraws each shape on the canvas, and the shapes react to mouse movements and clicks by spawning new shapes at the mouse's location.
+
+When you move your mouse or click on the canvas, colorful circles are drawn at the pointer's position and move in random directions. The canvas will continuously fill with shapes, creating an interactive, colorful display against a black background reminiscent of a simple starfield or fireworks.
